@@ -1,0 +1,4 @@
+MedianTest:testIsSorted(uint256,uint256,uint256,uint256) (runs: 256, μ: 284545, ~: 284492)
+MedianTest:testMedian2(uint128,uint128) (runs: 256, μ: 168952, ~: 168864)
+MedianTest:testMedian3(uint256,uint256,uint256) (runs: 256, μ: 353071, ~: 352985)
+MedianTest:testMedian4(uint128,uint128,uint128,uint128) (runs: 256, μ: 448955, ~: 448810)
