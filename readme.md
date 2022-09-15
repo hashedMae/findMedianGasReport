@@ -7,24 +7,13 @@ For each comparison an array of lengths 2, 3, 4, and 5 was tested.
 ##Gas Cost in Wei
 ---
 
-###List Order on chain
+|        | List Ordered on Chain | List Ordered off Chain | 
+|-----        |-----                     |-----                      |
+|Min |111867 |1125|
+|Median |144970 |1301|
+|Max |202272 |1477 |
+|2 Items |112104 | 1325 |
+|3 Items|126403|1125|
+|4 Items |164485 |1477|
+|5 Items |202272 |1277 |
 
-**Min** 111867
-**Median** 144970
-**Max** 202272
-
-**2 Items** 112104
-**3 Items** 126403
-**4 Items** 164485
-**5 Items** 202272
-
-###List Ordered off Chain
-
-**Min** 1125
-**Median** 1301
-**Max** 1477
-
-**2 Items** 1325
-**3 Items** 1125
-**4 Items** 1477
-**5 Items** 1277
