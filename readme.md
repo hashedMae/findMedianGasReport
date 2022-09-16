@@ -4,7 +4,7 @@ The contracts and testing in this repository was used to find the gas cost for c
 The conclusion is that finding the median is relatively cheap and creating an ordered list from an unordered one is costly.
 For each comparison an array of lengths 2, 3, 4, and 5 was tested.
 
-##Gas Cost in Gwei
+Gas Cost in Gwei
 ---
 
 |        | List Ordered on Chain | List Ordered off Chain | 
@@ -17,7 +17,7 @@ For each comparison an array of lengths 2, 3, 4, and 5 was tested.
 |4 Items |164485 |1477|
 |5 Items |202272 |1277 |
 
-##$ Cost at$1600 Ether
+$ Cost at$1600 Ether
 ---
 
 |Assuming 50 Gas per transaction | List Ordered on Chain | List Ordered off Chain | 
